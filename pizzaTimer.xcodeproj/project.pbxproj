@@ -12,6 +12,7 @@
 		C9C643F21C7C9E3200E04618 /* Main.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = C9C643F01C7C9E3200E04618 /* Main.storyboard */; };
 		C9C643F41C7C9E3200E04618 /* Assets.xcassets in Resources */ = {isa = PBXBuildFile; fileRef = C9C643F31C7C9E3200E04618 /* Assets.xcassets */; };
 		C9C643F71C7C9E3200E04618 /* LaunchScreen.storyboard in Resources */ = {isa = PBXBuildFile; fileRef = C9C643F51C7C9E3200E04618 /* LaunchScreen.storyboard */; };
+		C9C643FF1C7CB7AC00E04618 /* beep.mp3 in Resources */ = {isa = PBXBuildFile; fileRef = C9C643FE1C7CB7AC00E04618 /* beep.mp3 */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -22,6 +23,7 @@
 		C9C643F31C7C9E3200E04618 /* Assets.xcassets */ = {isa = PBXFileReference; lastKnownFileType = folder.assetcatalog; path = Assets.xcassets; sourceTree = "<group>"; };
 		C9C643F61C7C9E3200E04618 /* Base */ = {isa = PBXFileReference; lastKnownFileType = file.storyboard; name = Base; path = Base.lproj/LaunchScreen.storyboard; sourceTree = "<group>"; };
 		C9C643F81C7C9E3200E04618 /* Info.plist */ = {isa = PBXFileReference; lastKnownFileType = text.plist.xml; path = Info.plist; sourceTree = "<group>"; };
+		C9C643FE1C7CB7AC00E04618 /* beep.mp3 */ = {isa = PBXFileReference; lastKnownFileType = audio.mp3; path = beep.mp3; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -60,6 +62,7 @@
 				C9C643F31C7C9E3200E04618 /* Assets.xcassets */,
 				C9C643F51C7C9E3200E04618 /* LaunchScreen.storyboard */,
 				C9C643F81C7C9E3200E04618 /* Info.plist */,
+				C9C643FE1C7CB7AC00E04618 /* beep.mp3 */,
 			);
 			path = pizzaTimer;
 			sourceTree = "<group>";
@@ -124,6 +127,7 @@
 			files = (
 				C9C643F71C7C9E3200E04618 /* LaunchScreen.storyboard in Resources */,
 				C9C643F41C7C9E3200E04618 /* Assets.xcassets in Resources */,
+				C9C643FF1C7CB7AC00E04618 /* beep.mp3 in Resources */,
 				C9C643F21C7C9E3200E04618 /* Main.storyboard in Resources */,
 			);
 			runOnlyForDeploymentPostprocessing = 0;
